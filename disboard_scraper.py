@@ -97,5 +97,5 @@ class ScraperDisboardInvites:
                 
 
                 
-
-scraper = ScraperDisboardInvites()
+if __name__ == "__main__"
+ scraper = ScraperDisboardInvites()
