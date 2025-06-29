@@ -98,4 +98,4 @@ class ScraperDisboardInvites:
 
                 
 if __name__ == "__main__":
- scraper = ScraperDisboardInvites()
+    scraper = ScraperDisboardInvites()
